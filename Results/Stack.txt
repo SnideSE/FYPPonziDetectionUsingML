@@ -1,0 +1,15 @@
+Best hyperparameters:  OrderedDict([('xgb__alpha', 6.97768661813915), ('xgb__booster', 'dart'), ('xgb__colsample_bytree', 0.45828016984251263), ('xgb__gamma', 1.820422880276168), ('xgb__lambda', 0.5169091027729152), ('xgb__max_depth', 3), ('xgb__min_child_weight', 5), ('xgb__scale_pos_weight', 1.078724170842197), ('xgb__subsample', 0.4730008752417326)])
+Best score: 0.9678
+Stack model performance:
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98       533
+           1       0.70      0.75      0.73        44
+
+    accuracy                           0.96       577
+   macro avg       0.84      0.86      0.85       577
+weighted avg       0.96      0.96      0.96       577
+
+Confusion Matrix:
+[[519  14]
+ [ 11  33]]

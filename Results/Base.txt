@@ -1,0 +1,13 @@
+Test set performance:
+              precision    recall  f1-score   support
+
+           0       0.97      0.88      0.92       533
+           1       0.30      0.64      0.41        44
+
+    accuracy                           0.86       577
+   macro avg       0.64      0.76      0.67       577
+weighted avg       0.92      0.86      0.88       577
+
+Confusion Matrix:
+[[469  64]
+ [ 16  28]]
