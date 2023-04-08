@@ -1,0 +1,4 @@
+https://github.com/scikit-optimize/scikit-optimize/issues/1071
+
+For the Scikit-optimize use this unofficial fork
+pip install git+https://github.com/QuentinSoubeyran/scikit-optimize.git@unofficial
